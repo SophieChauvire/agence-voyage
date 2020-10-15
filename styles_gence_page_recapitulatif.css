@@ -1,0 +1,16 @@
+body { 
+    background-color: white;
+}
+h1 { 
+    color: red;
+}
+nav{
+    background-color: rgb(255, 136, 0);
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+}

@@ -1,0 +1,24 @@
+body { 
+    background-color: white;
+}
+
+h3 {
+    color: red;
+}
+body {
+    width: 90%;
+    max-width: 900px;
+    margin: 2em auto;
+    font: .9em/1.2 Arial, Helvetica, sans-serif;
+  }
+  
+nav{
+    background-color: rgb(0, 174, 255);
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    color: rgb(116, 0, 48);
+    font-size: 2em;
+}
